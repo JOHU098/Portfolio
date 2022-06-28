@@ -1,0 +1,50 @@
+.p1{
+	font-family: 'Roboto Slab', serif;
+	text-align: center;
+	font-size: 45px;
+}
+.cent{
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 65px;
+	color: #5F5A5A;
+}
+.info{
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+.data{
+	font-family: 'Roboto Slab', serif;
+	font-size: 22px;
+
+}
+.abimg{
+	padding-left: 30px;
+}
+.portimg{
+	border: solid;
+	border-color: black;
+	border-width: 0.1px;
+}
+.icon{
+	height: 90px;
+	width: 90px;
+}
+.form{
+	font-family: 'Roboto Slab', serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+.footer{
+	background: black;
+	width: 100%;
+	height: 65px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+
+}
